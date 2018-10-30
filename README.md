@@ -16,3 +16,6 @@ Reading values from switches connected to port C and writing the result to port 
 
 * **countdown**  
 Countdown to zero displayed on the leds. This example uses a delay loop implemented as a subroutine.
+
+* **array_like_data_structure**  
+Example showing how data could be written to and read from memory in an array-like manner. Execute in the simulator to see the data getting stored into memory.
