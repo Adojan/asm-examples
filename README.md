@@ -13,3 +13,6 @@ Adding two 8 bit values and writing the result on port A
 
 * **read_from_switch**  
 Reading values from switches connected to port C and writing the result to port A. This example uses the internal pull-up resistors of the atmega mcu, and therefore the result we read are inverted (0 means a switch is pressed). To output a more intuitive result the value is inverted before written to port A.
+
+* **countdown**  
+Countdown to zero displayed on the leds. This example uses a delay loop implemented as a subroutine.
