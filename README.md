@@ -19,3 +19,6 @@ Countdown to zero displayed on the leds. This example uses a delay loop implemen
 
 * **array_like_data_structure**  
 Example showing how data could be written to and read from memory in an array-like manner. Execute in the simulator to see the data getting stored into memory.
+
+* **bubble_sort**  
+A bubble sort algorithm implemented in assembler. A sequence of data is loaded from program memory, placed in RAM and sorted. Execute in simulator to see how data is sorted. 
