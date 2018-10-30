@@ -22,3 +22,6 @@ Example showing how data could be written to and read from memory in an array-li
 
 * **bubble_sort**  
 A bubble sort algorithm implemented in assembler. A sequence of data is loaded from program memory, placed in RAM and sorted. Execute in simulator to see how data is sorted. 
+
+* **calling_convention**  
+An example showing how to pass parameters and recieve a return value using a calling convention when doing subroutine calls. The result is written to port A.
